@@ -1,0 +1,2 @@
+# OAuth2-Authorization-Server-Application
+Our web application shows how to utilize the Google API Client Library for PHP to provide OAuth 2.0 authorization for Google Drive API access. Users can share specified data with an application using OAuth 2.0 while keeping their usernames, passwords, and other personal information private. This application obtains permission from users to select a file and save it straight to their Google Drives using OAuth 2.0. The Authorization Code grant type is used in this web application.
